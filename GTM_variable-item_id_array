@@ -1,5 +1,5 @@
 function () { 
-   var items = google_tag_manager['GTM-WGKLC6T'].dataLayer.get('ecommerce').items;
+   var items = google_tag_manager['GTM-XXXXXXX'].dataLayer.get('ecommerce').items;
   
   var itemIds = [];
   
